@@ -44,3 +44,8 @@ Authentication:
 
 ## Project Goal
 Build a unified platform that helps users discover career opportunities, manage productivity, and share professional knowledge in one ecosystem.
+
+
+## Team
+
+Rana Aljohani _ Hadeel Awaji
