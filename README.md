@@ -48,4 +48,7 @@ Build a unified platform that helps users discover career opportunities, manage 
 
 ## Team
 
-Rana Aljohani _ Hadeel Awaji
+- Rana Aljohani
+- Hadeel Awaji
+- Fatima Alzhrani
+- Mayar fawaz 
