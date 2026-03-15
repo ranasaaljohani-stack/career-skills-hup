@@ -4,21 +4,29 @@ Career & Skills Hub is a full-stack web platform designed to combine career disc
 
 ## Platform Modules
 
+![Dashboard](docs/screenshots/Dashboard.png)
+
 ### 1. Job Board
 - Browse and search job listings
 - Filter jobs by category
 - Save favorite jobs
 - AI-powered job recommendations
 
+![Job Board](docs/screenshots/Job_Board.png)
+
 ### 2. Task & Project Management
 - Create tasks and projects
 - Track progress (To Do / In Progress / Done)
 - Set deadlines and reminders
 
+![Task Manager](docs/screenshots/Task_Manager.png)
+
 ### 3. Knowledge Exchange
 - Experts publish articles and tutorials
 - Users can comment and rate content
 - AI suggests articles based on user interests
+
+![Knowledge Hub](docs/screenshots/Knowledge_Hub.png)
 
 ## Tech Stack
 
